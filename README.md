@@ -1,4 +1,7 @@
 ## Olá eu sou o Rodrigo Oliveira, estudante e iniciante no mundo da programação!
+
+Testando novos conceitos na linguagem
+
 <div align="center">
   <a href="https://github.com/rod33oliver">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rod33oliver&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
